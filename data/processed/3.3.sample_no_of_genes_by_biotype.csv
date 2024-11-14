@@ -1,0 +1,14 @@
+gene_biotype,n
+protein_coding,1321
+lncRNA,69
+processed_pseudogene,59
+miRNA,7
+snoRNA,5
+TEC,4
+polymorphic_pseudogene,2
+unprocessed_pseudogene,2
+IG_C_gene,1
+scaRNA,1
+transcribed_processed_pseudogene,1
+transcribed_unitary_pseudogene,1
+transcribed_unprocessed_pseudogene,1

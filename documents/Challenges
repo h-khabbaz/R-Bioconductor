@@ -1,0 +1,14 @@
+Challenge 1
+Gene Expression Summary
+
+
+Challenge 2
+Calculate the mean expression level of gene “Dok3” by timepoints.
+
+
+
+Challenge 3
+3.1.How many genes were analysed in each sample?
+3.2.Use group_by() and summarise() to evaluate the sequencing depth (the sum of all counts) in each sample. Which sample has the highest sequencing depth?
+3.3.Pick one sample and evaluate the number of genes by biotype.
+3.4.Identify genes associated with the “abnormal DNA methylation” phenotype description, and calculate their mean expression (in log) at time 0, time 4 and time 8.
